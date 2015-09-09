@@ -27,7 +27,7 @@ $ex = '
 This is an <b>example</b> html code!<br/>
 <br/>
 by <blink><i>Zaf</i></blink><br/>
-<a href="http://elkom08.x10.bz">http://elkom08.x10.bz</a>
+<a href="http://zaf.web.id">http://zaf.web.id</a>
 
 </body>
 </html>
