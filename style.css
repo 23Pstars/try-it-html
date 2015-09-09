@@ -1,0 +1,59 @@
+#main{
+	height: 470px;
+	font-size: 14px;
+	margin: 10px 0px 0px 0px;
+	background-color: #F6ECEC;
+	border: thin solid #BABAC7;
+	font-family: tahoma, verdana, arial;
+}
+#main form{
+	margin: 0px;
+	padding: 0px;
+}
+#main p{
+	float: left;
+	color: #C21689;
+	padding: 0px 0px 0px 10px;
+}
+#main p.footer{
+	float: right;
+	padding: 0px 10px 0px 0px;
+}
+
+/* bagian editor */
+#editor{
+	width: 49.3%;
+	height: 420px;
+	float: left;
+	/* border: thin solid #BABAC7; */
+}
+#editor p{
+	padding: 10px 0px 0px 10px;
+	margin: 0px;
+}
+#editor textarea{
+	margin: 10px 0px 0px 10px;
+	width: 98%;
+	height: 90%;
+	border: thin solid #BABAC7;
+	background-color: #FFFFFF;
+}
+
+/* bagian result */
+#result{
+	width: 49.3%;
+	height: 420px;
+	float: right;
+	/* border: thin solid #BABAC7; */
+}
+#result p{
+	padding: 10px 0px 0px 10px;
+	margin: 0px;
+}
+#result iframe{
+	margin: 10px 10px 0px 0px;
+	width: 98%;
+	height: 90%;
+	border: thin solid #BABAC7;
+	background-color: #FFFFFF;
+}
